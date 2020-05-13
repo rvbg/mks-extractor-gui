@@ -4,6 +4,8 @@ Extract Matroska subtitle files (MKS) from MKV files with a GUI. Wrapper for MKV
 
 ![GUI v1.0](gui.png)
 
+[Download](https://github.com/rvbg/mks-extractor-gui/releases)
+
 ## Instructions
  1. Select your MKVToolNix diretory.
  2. Drag&Drop your MKV files into the "MKV Files" box.
