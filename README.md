@@ -12,7 +12,7 @@ Extract Matroska subtitle files (MKS) from MKV files with a GUI. Wrapper for MKV
  - [MKVToolNix](https://mkvtoolnix.download/downloads.html#windows)
  
 ## Instructions
- 1. Select your MKVToolNix diretory.
+ 1. Select your MKVToolNix directory.
  2. Drag&Drop your MKV files into the "MKV Files" box.
  3. Add your [ISO 639-2 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) on the right hand side.
  4. Start the job.
