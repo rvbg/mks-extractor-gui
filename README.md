@@ -9,6 +9,7 @@ Extract Matroska subtitle files (MKS) from MKV files with a GUI. Wrapper for MKV
 ## Requirements
  - Windows 7 (or newer)
  - [Visual C++ 2019 Redistributable](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+ - [MKVToolNix](https://mkvtoolnix.download/downloads.html#windows)
  
 ## Instructions
  1. Select your MKVToolNix diretory.
